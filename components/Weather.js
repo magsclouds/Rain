@@ -63,7 +63,7 @@ const styles = StyleSheet.create ({
         alignItems: 'flex-start',
         justifyContent: 'flex-end',
         paddingLeft: 25,
-        marginBottom: 60
+        marginBottom: 33
     },
     title:{
         fontSize: 60,
